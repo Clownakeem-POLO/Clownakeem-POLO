@@ -3,12 +3,6 @@
   Feel free to steal the structure... but not my robots 😤
 -->
 
-<div align="center">
-  <img src="https://media.craiyon.com/2025-07-13/AFzbtKgTSD-diJYT7SJzrA.webp" width="400" alt="anime engineer girl coding at night with holograms" />
-  <br><br>
-  <h1>Hey there! 🤖📊</h1>
-</div>
-
 I'm **Persival Akeem**, a chaotic good engineer who lives at the intersection of data, AI, clouds, and questionable robot life choices.
 
 - 🔧 Mechanical Engineer & Data Analyst by training  
@@ -34,12 +28,5 @@ Check out my pinned repos — some are serious, some are "what was I thinking", 
 
 Wanna collab on AI, data adventures, cloud shenanigans, or robot therapy?  
 DMs open. Or just stare at my code in silence. That's cool too. 😏
-
-<div align="center">
-  <img src="https://thumbs.dreamstime.com/b/ai-generated-image-depicts-anime-girl-sits-her-desk-headphones-working-computer-as-gazes-out-beautiful-sunset-357309309.jpg" width="320" alt="anime girl coding at sunset desk" />
-  <img src="https://thumbs.dreamstime.com/b/cybernetic-anime-girl-analyzing-holographic-data-futuristic-neko-glowing-eyes-circuit-patterns-studies-complex-435388723.jpg" width="320" alt="cyber anime girl with holograms and cat ears" />
-</div>
-
-<br>
 
 Made with ☕ + bad decisions + way too much Python

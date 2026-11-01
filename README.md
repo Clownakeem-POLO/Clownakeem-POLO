@@ -1,32 +1,15 @@
-<!-- 
-  Hey there! 👋 This is my GitHub profile README
-  Feel free to steal the structure... but not my robots 😤
--->
+### Hi, I'm Persival Akeem 👋
 
-I'm **Persival Akeem**, a chaotic good engineer who lives at the intersection of data, AI, clouds, and questionable robot life choices.
+Mechanical Engineer (BSc, JKUAT) and AI Automation Engineer. I build AI agents and automated systems that take manual work off people's plates, and I turn messy data into clear insight.
 
-- 🔧 Mechanical Engineer & Data Analyst by training  
-- 🧑‍🏫 Instructor in **Data Science • Artificial Intelligence • Cloud Computing** (yes, I torture students with love)  
-- 🐍 Python enjoyer (it's basically my love language)  
-- 🤖 Also build robots that sometimes obey me... sometimes plot world domination  
+- 🔧 **Mechanical:** power generation, diesel gensets, aircraft systems, manufacturing machinery
+- 🤖 **AI & automation:** LLM agents, workflow automation, MLOps
+- 📊 **Data:** Python, SQL, Power BI, Alteryx, machine learning
+- ☁️ **Cloud:** Azure, data pipelines
+- 🧑‍🏫 **Founder & instructor at NEXLVAL** (Data Science, AI/ML, Cloud Computing)
 
-I turn messy data into beautiful insights, deploy AI models that hopefully don't hallucinate too much, wrangle clouds without crying (much), and teach people how to do the same.
+I enjoy taking an idea from prototype to a working system, whether that is an LLM agent, an automation pipeline, or a piece of mechanical kit.
 
-If an idea keeps me up at 3 a.m., chances are I'll prototype it — whether it's a neural net, a serverless nightmare, or a robot that judges my life decisions.
+Open to roles and collaborations in AI automation, data, and mechanical or systems engineering.
 
-### Currently obsessed with:
-- LLMs that actually help instead of sass  
-- MLOps pipelines that don't explode  
-- Robots with too much personality  
-
-### Fun facts:
-- My robots have ghosted me more times than my exes  
-- I once debugged a model by talking to it like a toddler  
-- Coffee is fuel. Python is therapy. Robots are chaos.  
-
-Check out my pinned repos — some are serious, some are "what was I thinking", all are public evidence.
-
-Wanna collab on AI, data adventures, cloud shenanigans, or robot therapy?  
-DMs open. Or just stare at my code in silence. That's cool too. 😏
-
-Made with ☕ + bad decisions + way too much Python
+🌐 [nexlval.com](https://nexlval.com) · 💼 [LinkedIn](https://www.linkedin.com/in/persival-owuo-618013162) · 📫 akeempersival2000@gmail.com

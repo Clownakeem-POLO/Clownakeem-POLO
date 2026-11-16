@@ -30,10 +30,10 @@ Cloud:         Azure (ML, Data Factory), Docker, FastAPI
 |---|---|
 | [claude-engineering-doc-assistant](https://github.com/Clownakeem-POLO/claude-engineering-doc-assistant) | Claude-powered app that summarizes engineering PDFs, answers questions about them, and pulls out structured specs |
 | [concrete-strength-api](https://github.com/Clownakeem-POLO/concrete-strength-api) | FastAPI service that predicts concrete compressive strength, packaged with Docker and CI for deployment |
-| [heart-disease-prediction](https://github.com/Clownakeem-POLO/heart-disease-prediction) | Clinical risk classifier on the UCI Cleveland data, recall-focused, with a Streamlit demo |
-| [predictive-maintenance](https://github.com/Clownakeem-POLO/predictive-maintenance) | Flagging machine failure from sensor readings on the imbalanced AI4I 2020 dataset |
-| [energy-consumption-forecasting](https://github.com/Clownakeem-POLO/energy-consumption-forecasting) | Time-series model forecasting household energy use from weather and sensor history |
-| [power-output-prediction](https://github.com/Clownakeem-POLO/power-output-prediction) | Regression on a combined cycle power plant, predicting output from ambient conditions |
+| [heart-disease-prediction](https://github.com/Clownakeem-POLO/heart-disease-prediction) | Clinical risk classifier on the UCI Cleveland data, recall-focused &middot; [live demo](https://clownakeem-heart-disease.streamlit.app) |
+| [predictive-maintenance](https://github.com/Clownakeem-POLO/predictive-maintenance) | Flagging machine failure from sensor readings on the imbalanced AI4I 2020 dataset &middot; [live demo](https://clownakeem-predictive-maintenance.streamlit.app) |
+| [energy-consumption-forecasting](https://github.com/Clownakeem-POLO/energy-consumption-forecasting) | Time-series model forecasting household energy use from weather and sensor history &middot; [live demo](https://clownakeem-energy-forecasting.streamlit.app) |
+| [power-output-prediction](https://github.com/Clownakeem-POLO/power-output-prediction) | Regression on a combined cycle power plant, predicting output from ambient conditions &middot; [live demo](https://clownakeem-power-output.streamlit.app) |
 | [weather-report-automation](https://github.com/Clownakeem-POLO/weather-report-automation) | Python CLI that pulls weather data and emails a daily report, run on a schedule by GitHub Actions |
 | [common_azure_snippets](https://github.com/Clownakeem-POLO/common_azure_snippets) | My working reference for training and deploying a model on Azure ML, data to live endpoint |
 | [whatsapp-task-automation](https://github.com/Clownakeem-POLO/whatsapp-task-automation) | n8n workflows that run task tracking and sales reporting over WhatsApp |
